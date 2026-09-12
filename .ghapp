@@ -1,0 +1,10 @@
+{
+  "id": 161206821,
+  "created_at": "2026-09-12T19:06:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ahcm088.r-universe.dev"]
+}
